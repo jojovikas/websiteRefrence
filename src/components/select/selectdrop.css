@@ -1,0 +1,26 @@
+.selectDrop {
+  width: 200px;
+  height: 300px;
+  background: #fff;
+  position: absolute;
+  top: 175%;
+  left: -21px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.searchField input {
+  width: 100%;
+  height: 40px;
+  border: 1px solid rebeccapurple;
+}
+
+.selectDropWrapper .openSelect {
+  display: flex;
+  /* padding: 10px 0px; */
+}
+
+.selectDropWrapper .openSelect .arrow {
+  position: absolute;
+  top: 0px;
+  right: 10px;
+}
